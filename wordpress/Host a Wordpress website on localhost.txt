@@ -1,0 +1,8 @@
+To Host a Wordpress website on localhost:
+#Download wordpress from wordpress.org.
+#Unzip and move the extracted files to Xampp->htdocs Folder.
+#Create a folder in the name of the website inside Xampp->htdocs. 
+#Then create a database in localhost/phpmyadmin.
+#Create a user account in localhost/phpmyadmin.
+#Type localhost/websitename(same name used inside htdocs)
+# 

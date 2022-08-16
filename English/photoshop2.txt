@@ -1,0 +1,4 @@
+ctrl+alt+c-for canva
+ctrl+g-to make group of layers
+f7-to hide or unhide layer
+canva size-500pixels(W) by 500pixels(H)

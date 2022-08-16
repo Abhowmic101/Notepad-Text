@@ -1,0 +1,12 @@
+o-for circle
+r-for rectangle
+t-for text
+Ctrl+G-TO group elements
+Ctrl+Shift+G-To Ungroup elements
+Ctrl+click-To select one element from grouped Elements.
+Shift+scroll mouse-from left to right
+To Zoom in/out-scroll mouse.
+V-for moving
+K- for scale
+Hold shift-to perfectly resize shapes
+  

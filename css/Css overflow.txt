@@ -1,0 +1,5 @@
+Overflow property has values:hidden,visible,scroll,auto;
+hidden hide the text and scroll value add scroll with the 
+element.
+And auto value add scroll if needed so it is best to use
+auto.

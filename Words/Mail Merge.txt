@@ -1,0 +1,24 @@
+Mail Merge:
+Usages:
+#Email using Mail Merge
+#Print using Mail Merge
+#Edit using Mail Merge
+
+Source Data:
+#List of Names & Addresses
+#Can be in Excel or Outlook contacts
+
+Generic Letter:
+Letter is common to all 
+You can use this every year
+
+Final Letter:
+What is created Mail Merge
+If you have 10 names in the source data you get 10 letters 
+
+For mail merge go to mailings
+#Select start mail merge then select step by step mail merge option.A dialog box will pop-up
+#Then select letters
+#then select an existing list and browse or you can choose from outlook contacts
+#Then finish writting your letter
+#then Go to finish mail merge

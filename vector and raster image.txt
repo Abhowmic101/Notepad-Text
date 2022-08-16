@@ -1,0 +1,10 @@
+vector and raster image
+Raster image:consists of pixels.Pixels combined together and give  a image.
+ #what does pixel do?
+Ans:One pixel contain one color information.
+Vector image:based on mathematical formula.
+ #what is a path?
+ Ans:a vector line without any thickness.
+to handle the handles of pen tool use ctrl.
+
+

@@ -1,0 +1,43 @@
+generally computer takes input as a string to use it as 
+integer or float use parseInt/float() to converrt  it
+ into integer or float.
+
+Variable should be identified by unique names.
+These unique names are called identifiers.
+
+The general rules for constructing names for variables (unique identifiers) are:
+
+Names can contain letters, digits, underscores, and dollar signs.
+Names must begin with a letter
+Names can also begin with $ and _ (but we will not use it in this tutorial)
+Names are case sensitive (y and Y are different variables)
+Reserved words (like JavaScript keywords) cannot be used as names
+JavaScript identifiers are case-sensitive.
+Using the dollar sign is not very common in JavaScript, but professional programmers often use it as an alias for the main function in a JavaScript library.
+
+In the JavaScript library jQuery, for instance, the main function $ is used to select HTML elements. In jQuery $("p"); means "select all p elements".
+
+Using the underscore is not very common in JavaScript, 
+but a convention among professional programmers is to 
+use it as an alias for "private (hidden)" variables.
+
+
+The let keyword was introduced in ES6 (2015).
+
+Variables defined with let cannot be Redeclared.
+
+Variables defined with let must be Declared before use.
+
+Variables defined with let have Block Scope.
+
+Variables declared with let cannot be redeclared.
+But variables declared with let can be redeclared outside 
+the block.
+like
+{
+let x=2;
+}
+
+let x=4;
+
+is valid.     

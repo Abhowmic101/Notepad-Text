@@ -1,0 +1,9 @@
+The Extra information about something which is showed
+when the user points mouse over an element.
+The visibility of the text should be hidden by default.
+Tooltip text should be visible on hover.
+the position of the container should be relative.
+the position of the text should be absolute.
+so that you can allign the tooltip as per as your 
+wish.
+ 

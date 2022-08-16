@@ -1,0 +1,5 @@
+sticky-It is a position that is used between fixed and relative.It got stuck after scrolling for some time.
+
+
+Quote:
+We become successful by what we get but we become happy by what we give.

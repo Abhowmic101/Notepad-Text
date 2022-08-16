@@ -1,0 +1,47 @@
+#place a preiod inside a double quotation.
+#place a preiod outside a double quotation.
+#If single quotation is used inside a double quotation marks,place the preiod before
+the final single quotation mark.
+
+#if a sentence ends with exclamation marks or question marks, 
+the prieod is omitted.
+
+Using a comma 
+#use a comma after the first digit of a four digit number.
+ #a dgrese or certification shown after a person's name should be 
+set off with commas.
+#while addressing someone, it should be set off with commas.
+ Lisa,thank you for taking out time to answer my questions.
+ #when a date consists of the month followed by the year,
+the day of the month should be followed by a commas.
+when the day of the week is provided before the month,
+the day of the week should be followed by a comma.
+Ex:I will be out of town on Wednesday,october31,2018.
+
+  #commas should be used to separate geographic elements.
+the final geographic element should also be followed by
+a comma when it appears in the middle of a sentence.
+Ex:
+His family relocated to San francisco,California,when he was
+
+#When a noun is modified by more than one adjective,each 
+of which independently modifies the noun,the adjectives 
+should be seperated by a comma.
+Ex:
+He has a loving,caring husband.
+#A comma is required when an adjective or adverb is repeated 
+for emphasis.
+Ex:
+It was a very,very long speech.
+#A comma is used to set off introductory words to a sentence.
+Ex:
+Yes,it was a beautiful wedding.
+#An afterthought that follows the main clause can be set off with comma.\
+Ex:
+It was not a good movie, to be honest
+#a comma should be used before a question tag.Question
+tags are the short questions that we put at the end of sentences.
+the trend with labels is to omit the comma.
+Dr.David Smith,Jr. is the CEO of the company.
+
+ 

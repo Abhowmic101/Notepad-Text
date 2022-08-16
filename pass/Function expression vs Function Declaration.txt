@@ -1,0 +1,12 @@
+The main difference between a function expression and a 
+function declaration is the function name, which can be 
+omitted in function expressions to create anonymous 
+functions. A function expression can be used as an IIFE 
+(Immediately Invoked Function Expression) which runs as 
+soon as it is defined.
+
+In short, use function declarations when you want to 
+create a function on the global scope and make it 
+available throughout your code. Use function expressions 
+to limit where the function is available, keep your 
+global scope light, and maintain clean syntax.

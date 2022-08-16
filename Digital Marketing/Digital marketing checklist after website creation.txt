@@ -1,0 +1,15 @@
+Checklist:
+#Set up google tag manager. Check on google analytics.If it shows
+green  then tag manager is installed properly.
+#Set Up google analytics/Google search Console.
+#Planning to run Adwords setup google ads Account and integrate
+Everything.
+#Add email popup on website.
+#Implement all Remarketing Tags like Facebook Pixel, Pinterest
+pixel etc.
+#Create Google my business listings.
+#Ad Schema markup.
+#Integrate all Social Media Accounts. If not present create 
+and Integrate.
+#User friendliness.
+#Speed test.   

@@ -1,0 +1,6 @@
+Dymanically Modified websites
+Event Based
+Doesn't need to tell how to do just tell what to do
+Runtime validation 
+Interpret based
+Framework

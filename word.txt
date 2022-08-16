@@ -1,0 +1,6 @@
+ভৌত
+Equilibrium Sign of chemistry is in symbol font:Cambria Math 
+Subset :Arrows
+
+Tips:
+For random texts use =rand() in word.

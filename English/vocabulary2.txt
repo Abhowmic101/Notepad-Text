@@ -1,0 +1,5 @@
+vocabulary:
+Mild-the temprature is not hot and not cold.
+condusive-sohayok
+eloquent-বাকপটু
+rampant-প্রচণ্ড

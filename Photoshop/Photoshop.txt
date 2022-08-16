@@ -1,0 +1,11 @@
+Photoshop:
+Ctrl+Alt+c-Canvas Size
+
+Clone Stamp Tool:
+Use alt to define area.
+
+select all layers to work smoothly with all the layers.
+
+If you release the mouse button every time it will clone the different area if you want to clone the same area every time get hold of the  mouse till end.
+
+Go to window then clone source to define multiple sources.

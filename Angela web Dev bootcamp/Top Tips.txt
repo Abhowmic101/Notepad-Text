@@ -1,0 +1,48 @@
+Dont write along with instructor. 
+Watch the video longer than 10 minutes part by part (10 
+minutes part).
+First watch the full video and try to understand the code.
+Then test Yourself.
+Don't Copy and paste the code.
+#Take Notes while you are listening for reviewing for future.
+#Can make the change of playback Speed according to you.
+#Don't Skip any tutorial
+#Bookmark the modules or tutorial which you find difficult
+try to learn it making parts.
+#If you still find it harder then do some research and then 
+come back to that topic again you will find it a lot easier 
+
+Mastery=Practice.
+Getting stuck is a universal part of programming.
+Struggle is good.
+
+When get stuck on code:
+#Figure out the difference between reality vs expectations.
+#Check on google and stackoverflow.
+#Check Q&A
+Shorcut to take screenshot:
+Widows+s
+
+
+
+
+
+Typing speed :
+keybr.com 
+devdocs.io
+unicode character table
+waybackmachine
+photobucket
+Note Taking Systems:
+Cornell Note Taking System
+Favicon.cc
+Emojipedia
+codeply
+codepen
+css button generator.com
+wireframing websites
+ui-patterns.com
+dribble
+sneakpeekkit
+
+blasamiq

@@ -1,0 +1,5 @@
+web Vocubolary:
+href-hyper text reference
+Domain Name-A domain name is the address of your website where internet users can access your website. Without a domain, having a website is not possible.
+
+Host-A Net 

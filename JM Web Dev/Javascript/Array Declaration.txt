@@ -1,0 +1,19 @@
+Declare with var keywords
+store the values within square brackets.
+string value should be given within single or double Quotation.
+Use , and space between two values.
+
+Functions of arrays:
+
+length-to know the length of array use length with array.
+indexof-to know the index of array number.
+Push-to add a new data or value at the last positionn of an use
+push().
+pop()-to add a new data or value at the last position of 
+an use push().
+
+The shift() method removes the first element from an array and returns that removed element. 
+This method changes the length of the array.
+
+slice(indexno,indexno)-to take out the slice of data from an 
+array.slice(x,y)-x-starting position and ending point.

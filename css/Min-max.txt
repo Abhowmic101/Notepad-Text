@@ -1,0 +1,6 @@
+min-height:property sets the minimum height of an element. It prevents the used value of the height property from becoming smaller than the value specified for min-height.
+px,em,pc,%,rem,auto.
+
+The element's height is set to the value of min-height whenever min-height is larger than max-height means override the value of max-height.
+
+max-height:property sets the maximum height of an element. It prevents the used value of the height property from becoming bigger than the value specified for max-height.

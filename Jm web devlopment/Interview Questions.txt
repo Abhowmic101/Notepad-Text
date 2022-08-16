@@ -1,0 +1,2 @@
+#What is the difference between Html 5 and Html4?
+Ans:Some tags like semantic tags: meaningful tags.

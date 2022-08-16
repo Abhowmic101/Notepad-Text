@@ -1,0 +1,5 @@
+blockquote-footer-Add blockquote-footer class inside footer to put different style on blockquote-footer
+
+fas-fas class means font-awesome special icon.
+fa-font awesome-icon
+fas-3x-increase size by 3x

@@ -1,0 +1,20 @@
+click on the lock button to lock the position of the frame.
+To Hide click on the eye button.
+
+when you remove clip content from frame the content doesn't hide
+at the time you resize the frame.
+when you use clip content the content get hide when you resize the frame.
+selecting resize to fit option helps you to resize the frame 
+so that it can fit according to the frame.
+
+you can set the border radius from border radius option.
+
+scale helps to resize shapes perfectly.
+
+Y-axis means top to bottom.
+X-axis means left to right.
+
+Inspect option helps to excerpt the css codes of specific section
+or part. 
+
+

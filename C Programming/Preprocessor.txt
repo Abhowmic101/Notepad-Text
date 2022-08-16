@@ -1,0 +1,14 @@
+Three phases of Programming:
+Preprocessing->Compiling->Linking
+preprocessor helps to preprocess the source code before compiling
+
+Preprocessor Directives:#include
+#define:define macros
+#undef
+#if
+#else
+#end if
+
+Macro substitution 
+File inculsion directives
+Compiler Control Directives

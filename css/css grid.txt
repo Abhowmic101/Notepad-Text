@@ -1,0 +1,9 @@
+grid-template-columns property is used to set the no. and width of the columns.( the units we can use here fr-fraction, %-percentage, px-pixels, pc)
+
+grid-template-row property is used to set the no. and width of the rows.
+
+An html element becomes a grid container when we set display property of that element to grid.To make the grid inline use inline-grid. 
+grid-column/row-gap properties are used to create gap between columns and rows. 
+
+grid-column/row properties are used to set the area of a column or row.In this case if you want to take the area of two column for one column you have to 
+grid-area:

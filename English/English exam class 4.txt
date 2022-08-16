@@ -1,0 +1,4 @@
+Die,Help,produce,wonderful,Return
+
+word-meaning
+Hospital,primary, park,paitent,garden.neighbourhood

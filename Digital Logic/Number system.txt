@@ -1,0 +1,15 @@
+There are 4 Number Systems. They are:
+#Binary base:2
+#Decimal base:10
+#Octal base:8
+#Hexadecimal base:16
+Base/radix:How many unique digits are present in the 
+number system.
+Number systems range:
+Binary:0-1
+Decimal:0-9
+Octal:0-7. 77 then three digits combination
+Hexadecimal:0-F
+
+For all number systems the digit is digit except in binary system it is called 
+binary  

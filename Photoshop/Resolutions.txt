@@ -1,0 +1,4 @@
+ Resoulation should be according to output
+Logo-400
+Standard-72
+Print Media-300

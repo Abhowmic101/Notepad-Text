@@ -1,0 +1,2 @@
+To show background color or Image:
+go to theme customizer->general settings->Layout Settings->content Width->boxed->background->background color/background image->choose color/image.

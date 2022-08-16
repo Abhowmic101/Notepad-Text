@@ -1,0 +1,7 @@
+Grid Properties:
+grid-template-columns: values define the width size of columns
+values:auto auto or in pixels.
+Grid-template-rows:to define the height of rows of grids.
+grid-gap:define the size of gap between grids
+Grid-column-start grid-column-end grid-column
+Grid-rsows-start grid-row-end grid-row

@@ -1,0 +1,4 @@
+Desktop-1440px
+Laptop-1024px
+Tablet-768px
+Mobile-414px

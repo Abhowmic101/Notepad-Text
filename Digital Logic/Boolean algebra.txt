@@ -1,0 +1,17 @@
+Universal gates(NAND, NOR ) doesn't follow associative laws
+Distributive Laws
+1.A+BC=(A+B)(A+C)
+2.A(B+C)=AB+AC
+
+Absorption Laws:
+1.A+AB=A
+2.A(A+B)
+
+Consensus Law
+only one variable's normal and complemented form will remain.
+
+1.AB+BC+A'C=AB+A'C
+2.AB+B'C+AC=
+3.AB+BC+AC'=
+
+ 

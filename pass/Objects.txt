@@ -1,0 +1,7 @@
+Object is a collection data or properties a secondary
+data type which consist a set of properties.
+
+Properties: key:value
+All the properties are seperated by ,
+
+objectname.propertyname allows you to access a object property.

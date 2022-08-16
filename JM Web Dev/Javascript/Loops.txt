@@ -1,0 +1,5 @@
+while loop executes a block of codes repeatedly based on
+a condition.
+counter variable
+condition
+blocks of code or statement; 

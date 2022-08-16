@@ -1,0 +1,13 @@
+What is Javascript?
+2.How does JS works?
+3.What is Variable?
+Types of Variables?
+Naming COnvention?
+Math Operation 
+How to declare an array?
+Shorthand
+What is an index?
+Find the value of an element by index?
+what does it mean when you get undefined while getting the 
+value of an element?
+How can you remove the last element of an array

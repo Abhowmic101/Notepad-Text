@@ -1,0 +1,19 @@
+Responsive on all devices
+- must look good on all devices
+
+A video right at the top
+-A video that explains what the company does
+-A short video of 1-3 min
+
+CTA
+-Ask People to buy
+-What do they need
+-0-1 click maximum
+
+Give something for free for email leads
+It should look like a funnel.
+-ask people more in every step.
+screen reader
+
+Tools:
+webuka

@@ -1,0 +1,6 @@
+Javascript Values:
+Fixed Values
+Variable values
+Fixed Values are called Literals 
+Variable are called Variables.
+Numbers are written with or without 

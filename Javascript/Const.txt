@@ -1,0 +1,7 @@
+Varuiables defined with const cannot be redecleared.
+Variables defined with const cannot be reassigned.
+Variables defined with const have block scope.
+
+JavaScript const variables must be assigned a value when 
+they are declared.
+ 

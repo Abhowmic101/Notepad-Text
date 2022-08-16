@@ -1,0 +1,3 @@
+parseInt-convert a data into integer.
+parseFloat-convert a data into float.
+totoFixed- keep the float values digit after point limited.

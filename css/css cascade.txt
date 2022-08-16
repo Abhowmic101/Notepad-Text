@@ -1,0 +1,25 @@
+With CSS, the styles that are applied to a given element
+ are calculated from all the selectors that match that 
+style in the style sheet.It’s also possible to override styles. 
+
+There are two kinds of length units: absolute and relative. Absolute units theoretically
+correspond to a unit of measure in the real world, such as an inch, a centimeter, or a
+point. Relative units are based on some more arbitrary unit of measure.
+Using Percentage Units
+
+When you use percentages as units , bear in mind that the percentage applies not
+to the size of the page, but rather to the size of the box that encloses the box to
+which the style applies. For example, if you have a <div> with its width set to 50%
+inside a <div> with its width set to 500px, the inner <div> will be 250 pixels wide.
+However, if the outer <div> were also set to 50%, it would be half as wide as the
+browser window, and the inner <div> would be 25% of the width of the browser window 
+CSS3 also brings in three new relative units that are very useful: rem, vh, and vw. The
+rem unit acts like the em unit; it is relative to the font size. But rather than being relative
+to the current element’s font size, it’s relative to the base font size for the whole page.
+This means that you can set values that don’t combine with each other. Many designers
+did not like the em unit because it would combine and result in font sizes that were much
+larger or smaller than they expected. rem acts the way most designers expect.
+The other two new units are vh and vw. These are relative to the viewport window. This is
+particularly useful if you are designing pages to look good on mobile and smaller screen
+\
+For color use Adobe color cc

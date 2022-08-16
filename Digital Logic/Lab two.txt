@@ -1,0 +1,6 @@
+Minterm are product term of inputs
+Function is the logical sum of those minterms for which the function(output) value one(1).
+truth table
+then derive the function from the truth table. :
+
+Minterm:A'.B', A'.B, A.B'

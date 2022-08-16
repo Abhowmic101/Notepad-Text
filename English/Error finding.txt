@@ -1,0 +1,2 @@
+Inverted sentence-v+s+o.
+Ex:THere is a dog.

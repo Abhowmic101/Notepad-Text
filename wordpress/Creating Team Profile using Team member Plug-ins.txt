@@ -1,0 +1,15 @@
+Creating Team Profile using Team member Plug-ins: 
+#Install and Activate Team Members plug-ins.
+#Go to team member.
+#Click on Add New Team.
+#Click On add New Member.
+#Fill the first name Second Name and Job Role box.
+#Edit Bio.
+#Upload a Photo.
+#Add Social Media Links.
+#Save or Publish.
+#Then Copy the shortcode and paste wherever you want.
+#You can also choose how many member you want to show on one line from sidebar.
+#You can choose fonts and color from sidebar.
+
+color:52e2f2

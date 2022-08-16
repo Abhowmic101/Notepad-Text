@@ -1,0 +1,31 @@
+Data Types:
+
+Primary Data Types:
+Integer:int fs:%d size:2Bytes or 4 bytes
+Float:float fs:%f size:4 bytes
+Double:double fs:%lf 8bytes
+Characters:char fs:%c 
+
+Secondary Data Types:
+Array
+Pointer
+Structure
+Enum
+void
+
+Modifiers:
+to affect data types we can use modifiers
+Size:Short long
+sign-signed,unsigned
+
+int a-2bytes
+long int-4 bytes
+short int-2bytes
+short double
+long double-10bytes
+
+signed: by default any integer or character variable is signed.store positive and negative value.
+
+unsigned: only store positive values
+
+

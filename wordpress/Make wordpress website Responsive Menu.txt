@@ -1,0 +1,14 @@
+To Make wordpress website responsive:
+
+#First install and activate responsive menu plug-ins.
+#Go to responsive menu.
+
+To style responsive menu:
+#go to responsive menu->menus->select a menu->customize-> menu styling:you can change menu background,border color,trigger icon 
+
+
+
+Mobile width:min:320px, max:480px;
+
+
+

@@ -1,0 +1,4 @@
+#Font related to  brand emotions
+#Font with family
+#Font's Readability-font should be readable.Especially font's size.
+ 
