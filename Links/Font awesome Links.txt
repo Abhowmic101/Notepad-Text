@@ -1,5 +1,0 @@
-Kit code/cdn
-<script src="https://kit.fontawesome.com/aa3805ae00.js" crossorigin="anonymous"></script>
-
-cdn:
-https://cdnjs.com/libraries/font-awesome

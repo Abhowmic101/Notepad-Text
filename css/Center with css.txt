@@ -1,3 +1,0 @@
-if you set the width of a block element then to  center the element 
-use margin:auto _px 
-to center you can use display:flex with justify-content:center

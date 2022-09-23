@@ -1,1 +1,0 @@
-navbar-brand class is best to use with anchor tag.

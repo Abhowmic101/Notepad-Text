@@ -1,7 +1,0 @@
-			view shop 
-                        ask
-                        location 
-                        whatsapp button
-                        email 
-                        logo
-                         

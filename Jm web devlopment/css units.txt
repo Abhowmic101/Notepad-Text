@@ -1,2 +1,0 @@
-Relative units:relative to parents elements
-Absolute units:fixed lengths

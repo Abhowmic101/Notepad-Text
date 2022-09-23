@@ -1,7 +1,0 @@
-We have to use the keyword var for one variable when we 
-are constructing a variable only once in its lifetime.
-We don't need to use keyword when we are changing the value
-or futher using it for any purpose.
-
-we can't re-declare the variable
-to  solve this we can use let.

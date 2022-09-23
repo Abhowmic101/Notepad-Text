@@ -1,1 +1,0 @@
-ctrl+J-To open terminal in vs studio

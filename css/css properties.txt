@@ -1,7 +1,0 @@
-css property:
-content-visibility:auto
-content-visibility ensures that you get the largest performance gains the browser can provide with minimal effort from you as a developer.
-The content-visibility property accepts several values, but auto is the one that provides immediate performance improvements.
-we see a boost from a 232ms rendering time to a 30ms rendering time. That’s a 7x performance boost.
-in detail-short
-in details-briefly

@@ -1,2 +1,0 @@
-Shortcuts for Chrome:
-Ctrl+shift+r-reload the page.

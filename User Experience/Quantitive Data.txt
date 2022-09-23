@@ -1,7 +1,0 @@
-Quantitative data can be thought of as information that 
-can be transcribed numerically. Think about survey data,
- we can put it into spreadsheets. We can then analyze it
- using descriptive statistics. We can find out things 
-like what's the average age of the user in the study, 
-what was the median number of years that that user had 
-their current phone?

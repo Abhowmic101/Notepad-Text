@@ -1,5 +1,0 @@
-Writting-mode property refers to whether the text is 
-running horizontally or vertically and from right to 
-left or left to right. 
-The values of the property are vertical-rl, horizontal-rl,
-vertical-lr,horizontal-lr.

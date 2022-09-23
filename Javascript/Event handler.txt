@@ -1,2 +1,0 @@
-Event handlers can be used to handle and verify user 
-input, user actions, and browser actions.

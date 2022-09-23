@@ -1,3 +1,0 @@
-!important-bang important 
-to define one css rule as the most important it is used. it
-can even override the inline css.

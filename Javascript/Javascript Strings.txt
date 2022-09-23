@@ -1,3 +1,0 @@
-In Js, string should be written into double or single quotes.
-To use double or single quotes inside a quote use single qotes for text
- 

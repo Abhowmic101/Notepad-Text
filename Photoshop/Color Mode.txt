@@ -1,3 +1,0 @@
-Rgb color mode-for mobile and web
-For print-CMYk color mode(K stands for Key Black)
-

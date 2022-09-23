@@ -1,9 +1,0 @@
-email:abhowmick
-pass:typ0gr@phys@ndw1ch
-
-To use font awesome icon first copy the kits code from
-font awesome website.
-Then search the icon then copy the tag and class for that 
-icon.
- 
-icon can be customized using class associated with it.

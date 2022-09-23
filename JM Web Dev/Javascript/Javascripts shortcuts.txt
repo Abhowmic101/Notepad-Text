@@ -1,2 +1,0 @@
-Holding the shift key and then press enter will shift you to
-the down in the console of the chrome devtool console.

@@ -1,3 +1,0 @@
-scroll behaviour property helps to define whether the scroll positon 
-will shift smoothly from one place to another or will jump straight
-when the user clicks on a link within a scrollbox. 

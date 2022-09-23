@@ -1,9 +1,0 @@
-Operators:
-Arithmetic Operators:+,-,*,/
-Relational:>,<,>=,<=,!=,==
-Logical:&&,||,!
-Conditional/tenary:condition?exp1;exp2 
-Assignment:=
-Bitwise : use to manipulate the bits:&-And, |-OR,^-Exclusive OR,>>-Left,<<-Right
-Increment/Decrement operator
-special

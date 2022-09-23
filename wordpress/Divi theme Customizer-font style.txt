@@ -1,5 +1,0 @@
-font Style -TT-means all letters in uppercase.
-
-background color for drop down menu-#14d10a
-#ce0a0a
-#e8d50b

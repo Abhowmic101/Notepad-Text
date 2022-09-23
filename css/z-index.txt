@@ -1,3 +1,0 @@
-z-index only works with position property.
-value can be positive or negative.z-index is used for arranging the elements in stack order.
- 

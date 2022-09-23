@@ -1,7 +1,0 @@
-math objects are used to perform some mathematics functions
-in js.s
-Some important math objects:
-floor()
-round()
-celi()
-random() 

@@ -1,3 +1,0 @@
-To switch one windows task to another one use
-Alt+tab.
-to rename:f2

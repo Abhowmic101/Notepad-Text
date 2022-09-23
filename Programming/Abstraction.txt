@@ -1,8 +1,0 @@
-Abstraction is commonly defined as the extraction of 
-relevant information from a larger data set, where 
-utilizing abstraction allows engineers and others to 
-simplify a codebase.
-
-The reason this is confusing to many people is that 
-abstraction doesn't “sound like” what it is, semantically. It sounds like making something more vague, because 
-that's how we use it in general language.

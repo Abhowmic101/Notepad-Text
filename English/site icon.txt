@@ -1,4 +1,0 @@
-Wordpress site icon-
-In another word favicon.Site icon is the icon used in browser tab.
-
-#first go to apperance->customize->site identity->site icon

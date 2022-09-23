@@ -1,6 +1,0 @@
-Javascript Functions:
-
-charAt()-to use the character at that no. index.
-var.concat()-to concat the strings use the concat function.
-slice(start index,end index)-slice the string,
-no. of character-End index-Start index.

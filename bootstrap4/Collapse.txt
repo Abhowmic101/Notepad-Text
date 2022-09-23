@@ -1,3 +1,0 @@
-collapse-use it in a div or you can use it any element.
-
-use an anchor tag to show the hidden content. Use id of collapsale element inside of href attribute. Use a data-toggle attribute inside anchor tag with value collapse.

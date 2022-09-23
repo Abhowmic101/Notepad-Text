@@ -1,4 +1,0 @@
-A system for storing decimal digits in a four bit binary 
-system used in the abacus.
-
-It's a mixed based number system 

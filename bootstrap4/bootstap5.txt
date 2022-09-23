@@ -1,2 +1,0 @@
-Meta tag:
-The width=device-width part sets the width of the page to follow the screen-width of the device (which will vary depending on the device).

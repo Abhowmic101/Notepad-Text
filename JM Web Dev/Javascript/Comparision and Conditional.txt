@@ -1,5 +1,0 @@
-!= - means variables in two sides aren't they equal?
-!== - means variables in two sides.
-=== equal value and type
-
->= -Are the variables of both sides are equal

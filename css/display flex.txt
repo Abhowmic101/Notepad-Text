@@ -1,5 +1,0 @@
-Flex property is used for making a website responsive webdesign
-First you need to declare container with display:flex property
-for flex items.This defines a flex container; inline or block depending on the given value.
- It enables a flex context for all its direct children.
-Properties for flex-items 

@@ -1,2 +1,0 @@
-We can use custom link for creating social menus.
-if we are about to add the link later then we can use # instead of url for the time being.

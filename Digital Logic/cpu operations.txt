@@ -1,6 +1,0 @@
-program
-cpu does three operations
-arithmetic operation
-logical operation
-data transfer-cpu to ram
-ram to cpu

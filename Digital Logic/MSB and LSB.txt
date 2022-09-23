@@ -1,7 +1,0 @@
-In computing, the most significant bit (MSB) is the bit 
-which has the largest value in a multi-bit binary number.
-The most significant bit is the one which is farthest to
-the left. As binary numbers are largely used in computing and other related areas, the most significant 
-bit holds importance, especially when it comes to transmission of a binary number.
-
-LSB:

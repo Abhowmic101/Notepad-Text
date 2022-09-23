@@ -1,1 +1,0 @@
-ctrl+shift+down arrow-to copy the line down.

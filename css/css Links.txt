@@ -1,7 +1,0 @@
-One additional attribute that’s supported by the <a> tag is the rel attribute, which is used
-to describe the relationship between the linking document and the document that the user
-is linking to. There’s a set of specific values that should be used with this attribute. The
-most well known is the nofollow attribute, which indicates that search engines should
-not factor that link into their ranking of the document that is linked. nofollow is intended
-as a measure to fight search engine spam. You would use it like this:
-<a href="http://www.example.com/" rel="nofollow">Link to example site</a>

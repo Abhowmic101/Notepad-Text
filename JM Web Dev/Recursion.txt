@@ -1,3 +1,0 @@
-The function that calls itself is called recursive function.
-And the approach called recursion.
-The recursion makes code simpler clean and shorter.s 

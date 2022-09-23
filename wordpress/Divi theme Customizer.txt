@@ -1,3 +1,0 @@
-DIVI THEME CUSTOMIZER
-
-Website Gutter Width use to increase or decrease the space between page elements.

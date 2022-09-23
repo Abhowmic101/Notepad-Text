@@ -1,6 +1,0 @@
-Convert Decimal to binary :
-There are two parts of conversion:
- part
-Fractional part
-To convert fractional part into binary multiply the number with 
-2 and keep the number before radix point.

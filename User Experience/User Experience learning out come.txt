@@ -1,6 +1,0 @@
-Faqs
-How does a psychologist become a designer?
-
-As you know from my bio– I was trained as a cognitive psychologist. When I first came to the area of Human Computer Interaction I didn’t know that the field existed– I was only familiar with it’s cousin Human Factors Psychology (anecdote 1). Turns out that my background makes me a perfect candidate for teaching Intro to User Experience Design—it's the same as one of the fathers of the field – Don Norman. The initial title of his book was the Psychology of Everyday Things
-
-I soon found myself teaching Undergraduate User Interface design– and the old adage held true– you learn something best when you teach it. This course is a based on the course I teach at Georgia Tech 
